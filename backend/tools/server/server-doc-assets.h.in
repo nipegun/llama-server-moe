@@ -1,0 +1,6 @@
+#pragma once
+
+// Generated from the vendored Swagger UI distribution and the local viewer.
+static const char cSwaggerScript[] = R"LLAMA_DOC(@vSwaggerScript@)LLAMA_DOC";
+static const char cSwaggerStyle[] = R"LLAMA_DOC(@vSwaggerStyle@)LLAMA_DOC";
+static const char cSwaggerPage[] = R"LLAMA_DOC(@vSwaggerPage@)LLAMA_DOC";
